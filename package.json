@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Shatabdi-Barua/Task_KaanPeteRoi#readme",
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
   }
 }
